@@ -1,4 +1,4 @@
 # GitHub
 Learning about GitHub.
 <br>
-Author - Ayush Singh
+Author - Ayush Singh Bisht
